@@ -1,92 +1,92 @@
 export const data = [
 {
 	id: "1",
-	name: "Kornelia",
+	name: "Monika",
 	eyeColor: "green",
-	birthDate: "11/02/1993"
+	birthDate: "30/09/1981"
 },
 {
 	id: "2",
 	name: "Kornelia",
-	eyeColor: "yellow",
-	birthDate: "08/10/2001"
+	eyeColor: "brown",
+	birthDate: "07/03/1995"
 },
 {
 	id: "3",
-	name: "Jarek",
-	eyeColor: "yellow",
-	birthDate: "26/01/1996"
+	name: "Janusz",
+	eyeColor: "gray",
+	birthDate: "17/02/1986"
 },
 {
 	id: "4",
-	name: "Kornelia",
-	eyeColor: "brown",
-	birthDate: "08/12/2003"
+	name: "Janusz",
+	eyeColor: "yellow",
+	birthDate: "11/04/1978"
 },
 {
 	id: "5",
-	name: "Stanisław",
-	eyeColor: "blue",
-	birthDate: "13/03/1993"
+	name: "Magda",
+	eyeColor: "gray",
+	birthDate: "29/12/2003"
 },
 {
 	id: "6",
-	name: "Kornelia",
-	eyeColor: "gray",
-	birthDate: "22/08/1981"
+	name: "Janusz",
+	eyeColor: "yellow",
+	birthDate: "10/09/1973"
 },
 {
 	id: "7",
 	name: "Jarek",
-	eyeColor: "blue",
-	birthDate: "05/01/1979"
+	eyeColor: "gray",
+	birthDate: "24/11/1994"
 },
 {
 	id: "8",
-	name: "Magda",
+	name: "Janusz",
 	eyeColor: "gray",
-	birthDate: "07/02/2002"
+	birthDate: "23/11/1977"
 },
 {
 	id: "9",
-	name: "Monika",
-	eyeColor: "gray",
-	birthDate: "28/05/1981"
+	name: "Janusz",
+	eyeColor: "yellow",
+	birthDate: "21/05/1973"
 },
 {
 	id: "10",
-	name: "Kornelia",
-	eyeColor: "yellow",
-	birthDate: "17/03/1971"
+	name: "Stanisław",
+	eyeColor: "gray",
+	birthDate: "11/05/1984"
 },
 {
 	id: "11",
 	name: "Stanisław",
-	eyeColor: "blue",
-	birthDate: "13/09/1977"
+	eyeColor: "gray",
+	birthDate: "04/06/1992"
 },
 {
 	id: "12",
-	name: "Janusz",
-	eyeColor: "green",
-	birthDate: "29/04/1975"
+	name: "Magda",
+	eyeColor: "brown",
+	birthDate: "17/04/1977"
 },
 {
 	id: "13",
-	name: "Kornelia",
-	eyeColor: "yellow",
-	birthDate: "09/03/1981"
+	name: "Jarek",
+	eyeColor: "blue",
+	birthDate: "06/01/2003"
 },
 {
 	id: "14",
-	name: "Jarek",
-	eyeColor: "green",
-	birthDate: "19/06/2004"
+	name: "Magda",
+	eyeColor: "blue",
+	birthDate: "14/03/1972"
 },
 {
 	id: "15",
-	name: "Magda",
-	eyeColor: "brown",
-	birthDate: "17/02/1989"
+	name: "Janusz",
+	eyeColor: "gray",
+	birthDate: "06/10/2005"
 },
 ];
