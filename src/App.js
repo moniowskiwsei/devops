@@ -11,7 +11,7 @@ function App() {
   return (
     <div className='container'>
       <h1>Osoby</h1>
-      <a href="http://backend:4000">Backend</a>
+      <a href="http://localhost:4000">Backend</a>
       <div className='row g-3'>
         {data.map((person, index) => <PersonProfile key={person.id} person={person} />)}
       </div>
